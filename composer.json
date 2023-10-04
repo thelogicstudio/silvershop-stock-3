@@ -9,7 +9,7 @@
       "homepage": "https://github.com/silvershop/silvershop-stock/graphs/contributors"
     }],
 	"require": {
-		"silvershop/core": "3.x-dev",
+		"silvershop/core": "^3.0",
         "symbiote/silverstripe-gridfieldextensions": "*"
 	},
     "require-dev": {
